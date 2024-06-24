@@ -67,10 +67,10 @@ Conducted web scraping using BeautifulSoup and HTML parsing techniques to extrac
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/marirajan)
 - **GitHub:** [GitHub Profile](https://github.com/marirajank)
 
-## ⚡ Fun Fact
+<!--## ⚡ Fun Fact
 I love solving puzzles and playing chess in my free time.
 
-<!-- ## 📈 GitHub Stats
+ ## 📈 GitHub Stats
 ![Mari Rajan K's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
