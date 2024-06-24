@@ -40,7 +40,7 @@ Regression, Classification, Clustering
 
 ## 🚀 Projects
 
-### [House Rent Prediction Model Development](https://github.com/yourusername/house-rent-prediction)
+### [House Rent Prediction Model Development](https://github.com/marirajank/ML_Regression.git)
 *May 2024*  
 Implemented Linear Regression, Decision Trees, and Random Forests to predict house rents.
 - Conducted data cleaning, feature engineering, and normalization using Pandas, NumPy, and Scikit-Learn.
@@ -48,7 +48,7 @@ Implemented Linear Regression, Decision Trees, and Random Forests to predict hou
 - Evaluated model performance using RMSE, MAE, and R metrics.
 - Achieved 95% prediction accuracy and visualized results with Matplotlib for clear insights.
 
-### [Web Scraping for Analyzing Election Data](https://github.com/yourusername/election-data-scraping)
+### [Web Scraping for Analyzing Election Data](https://github.com/marirajank/web_scraping_electionresults.git)
 *March 2024*  
 Conducted web scraping using BeautifulSoup and HTML parsing techniques to extract election results data from websites.
 - Implemented custom algorithms to navigate HTML structures and extract constituency-wise voting results.
@@ -64,8 +64,8 @@ Conducted web scraping using BeautifulSoup and HTML parsing techniques to extrac
 
 ## 📫 How to Reach Me
 - **Email:** [marirajank02@gmail.com](mailto:marirajank02@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [GitHub Profile](https://github.com/yourusername)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/marirajan)
+- **GitHub:** [GitHub Profile](https://github.com/marirajank)
 
 ## ⚡ Fun Fact
 I love solving puzzles and playing chess in my free time.
